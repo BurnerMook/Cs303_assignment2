@@ -54,5 +54,7 @@ public class BigStack{
         return sum / stackStore.size();
     }
 
+
 }
+
 
